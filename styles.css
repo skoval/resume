@@ -1,0 +1,16 @@
+body {
+	font-family: 'Architects Daughter';
+	 color: purple;
+}
+
+.hr-thick {
+	border-top: 8px solid rgba(148, 46, 148, 0.46);
+}
+
+.text-muted-purple{
+	color: rgba(148, 46, 148, 0.46);
+}
+
+.row {
+	margin-top: 1%;
+}
