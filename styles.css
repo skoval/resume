@@ -1,6 +1,6 @@
 body {
-	font-family: 'Architects Daughter';
-	 color: purple;
+    font-family: 'Architects Daughter';
+    color: purple;
 }
 
 .hr-thick {
@@ -13,4 +13,12 @@ body {
 
 .row {
 	margin-top: 1%;
+}
+
+.flex-wrap {
+	display: -webkit-flex;
+	display: -moz-flex;
+	display: -ms-flex;
+	display: flex;
+	/* flex-wrap: wrap; */
 }
