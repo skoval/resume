@@ -4,11 +4,11 @@ body {
 }
 
 .hr-thick {
-	border-top: 8px solid rgba(148, 46, 148, 0.46);
+	border-top: 8px solid #800080;
 }
 
 .text-muted-purple{
-	color: rgba(148, 46, 148, 0.46);
+	color: #800080;
 }
 
 .row {
