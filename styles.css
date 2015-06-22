@@ -21,6 +21,8 @@ body {
 	display: -ms-flex;
 	display: flex;
 	/* flex-wrap: wrap; */
+	justify-contents:center;
+	align-items:center;
 }
 
 @media(max-width: 500px) {
@@ -28,3 +30,5 @@ body {
         flex-direction: column;
     }
 }
+
+
