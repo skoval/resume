@@ -15,6 +15,10 @@ body {
 	margin-top: 1%;
 }
 
+.footer-margin {
+	margin-top: 5%;
+}
+
 .flex-wrap {
 	display: -webkit-flex;
 	display: -moz-flex;
@@ -29,6 +33,5 @@ body {
     .flex-wrap {
         flex-direction: column;
     }
+ }
 }
-
-
