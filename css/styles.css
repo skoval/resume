@@ -25,7 +25,6 @@ body {
 	display: -ms-flex;
 	display: flex;
 	/* flex-wrap: wrap; */
-	justify-contents:center;
 	align-items:center;
 }
 
