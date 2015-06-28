@@ -1,6 +1,6 @@
 body {
-    font-family: 'Architects Daughter';
-    color: purple;
+	font-family: 'Architects Daughter';
+	color: purple;
 }
 
 .hr-thick {
@@ -24,10 +24,10 @@ body {
 	display: -moz-flex;
 	display: -ms-flex;
 	display: flex;
-	/* flex-wrap: wrap; */
-	align-items:center;
+	align-items: center;
 }
 
+
 .size-vw {
-	font-size: 1.7vw;
+	font-size: 1.8vw;
 }
