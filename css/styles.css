@@ -21,14 +21,13 @@ body {
 
 @media (min-width: 600px) {
 
-.flex-wrap {
-	display: -webkit-flex;
-	display: -moz-flex;
-	display: -ms-flex;
-	display: flex;
-	align-items: center;
- }
-
+	.flex-wrap {
+		display: -webkit-flex;
+		display: -moz-flex;
+		display: -ms-flex;
+		display: flex;
+		align-items: center;
+	}
 }
 
 .size-vw {
